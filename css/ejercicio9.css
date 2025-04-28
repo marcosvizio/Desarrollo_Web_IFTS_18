@@ -1,0 +1,20 @@
+span.estilo1 {
+    letter-spacing: 8px;
+    word-spacing: 12px;
+    text-transform: uppercase;
+    color: darkblue;
+}
+
+span.estilo2 {
+    letter-spacing: 3px;
+    word-spacing: 7px;
+    text-transform: uppercase;
+    color: darkgreen;
+}
+
+span.estilo3 {
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    text-transform: uppercase;
+    color: darkred;
+}

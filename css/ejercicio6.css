@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #c1dcf5;
+    margin: 40px;
+    color: #252525;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+ol {
+    background-color: #86bbf3;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 600px;
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+a {
+    color: darkred;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

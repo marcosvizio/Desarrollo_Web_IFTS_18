@@ -1,0 +1,16 @@
+.subrayado {
+    color:#00aa00;
+    text-decoration:underline;
+}
+
+.tachado {
+    color:#00aa00;
+    text-decoration:line-through;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #f9f9f9;
+    color: #333;
+}

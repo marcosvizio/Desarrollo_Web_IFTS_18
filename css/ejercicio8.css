@@ -1,0 +1,10 @@
+body {
+    background-color: #000000
+}
+
+p {
+    color: #00ff00; /* Verde puro */
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+}
